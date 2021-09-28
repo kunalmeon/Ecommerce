@@ -1,0 +1,334 @@
+[
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p10",
+    "title": "old durbar(black)",
+
+    "description": "A Blend of English grain spirit and 8 years old peated scotch malt with spring water from the Himalayas finished in oloroso sherry barrels in Nepal ",
+    "content": "Alcohol: 42.8 %",
+    "category": "Whiskey",
+    "priceDetails": "qtr: Rs.800.  Half Bottle: Rs 1600.  Full Bottle: Rs 3200 ",
+    "productImage": {
+      "public_id": "Ecommerce/odblack",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614428/Ecommerce/odblack.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p09",
+    "title": "old durbar(red)",
+
+    "description": "A Blend of English grain spirit and 8 years old peated scotch malt with spring water from the Himalayas finished in oloroso sherry barrels in Nepal ",
+    "content": "Alcohol: 42.8 %",
+    "category": "Whiskey",
+    "priceDetails": "qtr: Rs.600.  Half Bottle: Rs 1200.   Full Bottle: Rs 2400 ",
+    "productImage": {
+      "public_id": "Ecommerce/odred",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614441/Ecommerce/odred.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p15",
+    "title": "black oak",
+
+    "description": "An outstanding blend of premium malts and grain spirits double matured in charred sherry oak casks.Black Oak has extraordinarily rich fruity flavors, with the charred oak contributing to nuttiness, delicious woody fragrance and a velvety deep peat smoky finish. ",
+    "content": "Alcohol: 34.23%",
+    "category": "Whiskey",
+    "priceDetails": " qtr: Rs.300.   Half Bottle: Rs 600.  Full Bottle: Rs 1200 ",
+    "productImage": {
+      "public_id": "Ecommerce/blackOak",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614373/Ecommerce/balckOak.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p08",
+    "title": "ruslan",
+
+    "description": "Since 1973, Ruslan has built a legacy as Nepal’s favorite Vodka. With adherence to the highest quality standards, Ruslan continues to weave happiness and enjoyment into the lives of millions ",
+    "content": "Alcohol: 40%",
+    "category": "vodka",
+    "priceDetails": "qtr: Rs.420.  Half Bottle: Rs 840.  Full Bottle: Rs 1680 ",
+    "productImage": {
+      "public_id": "Ecommerce/ruslan",
+
+      "url": " https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614454/Ecommerce/ruslan.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p17",
+    "title": "8848",
+
+    "description": "Mount Everest, known as Chhomolungma by Sherpas meaning “Mother Goddess of the Earth” is the highest point in the world standing at 8848 meters. This vodka is crafted from imported grain spirits, distilled from Soft French Winter Wheat, and blended in small batches with Pure Spring Water from the Himalayas. ",
+    "content": "Alcohol: 40%",
+    "category": "vodka",
+    "priceDetails": "qtr: Rs.450.  Half Bottle: Rs 900.  Full Bottle: Rs 1600 ",
+    "productImage": {
+      "public_id": "Ecommerce/8848",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614352/Ecommerce/8848.jpg"
+    }
+  },
+
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p01",
+    "title": "sprite",
+
+    "description": "Sprite is a colorless, lemon and lime-flavored soft drink created by The Coca-Cola Company. It was first developed in West Germany in 1959 as Fanta Klare Zitrone (Clear Lemon Fanta) and was introduced in the United States under the current brand name Sprite in 1961 ",
+    "content": "Carbonated Water, Sugar, Citric Acid, Sweeteners (Acesulfame K, Aspartame), Acidity Regulator (Sodium Citrate), Natural Lemon and Lime Flavourings.",
+    "category": "soft drinks",
+    "priceDetails": "1ltr: Rs 100.  2.25 ltr: Rs 225 ",
+    "productImage": {
+      "public_id": "Ecommerce/sprite",
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631616386/Ecommerce/sprite.jpg "
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p02",
+    "title": "red bull",
+
+    "description": "Red Bull is a utility drink to be taken against mental or physical weariness or exhaustion. Red Bull combines two natural substances and important metabolic transmitters - the amino acid taurine and the glucuronolactone - with stimulating caffeine, vitamins and the energy provided by carbohydrates.",
+    "content": "Carbonated Water, Sucrose, Glucose, Citric Acid, Taurine, Sodium Bicarbonate, Magnesium Carbonate, Caffeine, Niacinamide, Calcium Pantothenate, Pyridoxine HCI, Vitamin B12, Natural and Artificial Flavors, Colors (Red)",
+    "category": "soft drinks",
+    "priceDetails": "Rs 100 ",
+    "productImage": {
+      "public_id": "Ecommerce/redbull",
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631616371/Ecommerce/redbull.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p03",
+    "title": "cocacola",
+
+    "description": "Coca-Cola, or Coke, is a carbonated soft drink manufactured by The Coca-Cola Company. Originally marketed as a temperance drink and intended as a patent medicine, it was invented in the late 19th century by John Stith Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century ",
+    "content": "carbonated water, high fructose corn syrup, caramel color, phosphoric acid, natural flavors, caffeine.",
+    "category": "soft drinks",
+    "priceDetails": "1ltr: Rs 100.   2.25 ltr:Rs 225 ",
+    "productImage": {
+      "public_id": "Ecommerce/coke.jpg ",
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631620606/Ecommerce/coke.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p04",
+    "title": "fanta",
+
+    "description": "Bright, bubbly and popular, Fanta is the soft drink that intensifies fun. Introduced in 1940, Fanta is the second oldest brand of The Coca-Cola Company. Bright, bubbly and popular, Fanta is the soft drink that intensifies fun. Introduced in 1940, Fanta is the second oldest brand of The Coca-Cola Company. ",
+    "content": "Carbonated Water, Sugar, Orange Juice from Concentrate (3.7%), Citrus Fruit from Concentrate (1.3%), Citric Acid, Vegetable Extracts , Sweeteners (, Preservative (Potassium Sorbate), Malic Acid, Acidity Regulator , Stabiliser , Natural Orange ",
+    "category": "soft drinks",
+    "priceDetails": "1ltr: Rs 100.    2.25 ltr: Rs 225 ",
+    "productImage": {
+      "public_id": "Ecommerce/fanta ",
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631616342/Ecommerce/fanta.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p05",
+    "title": "frooti",
+
+    "description": "Fruit juice is 100% pure juice made from the flesh of fresh fruit or from whole fruit, depending on the type used. It is not permitted to add sugars, sweeteners, preservatives, flavourings or colourings to fruit juice. Fruit juices are usually described as: From concentrate. ",
+    "content": "Some Added Flavour",
+    "category": "soft drinks",
+    "priceDetails": "Small Pack: Rs.25 ",
+    "productImage": {
+      "public_id": "Ecommerce/fruity ",
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631620729/Ecommerce/fruity.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p06",
+    "title": "nepal ice",
+    "priceDetails": "330ml : Rs 150.   650ml: Rs 250 ",
+    "description": "Chaudhary Group's Sun Gold Brewery has introduced a new beer in the Nepali market for the first time. Made with natural barley, the beer is called 'Nepal Ice Natura'. The use of natural barley as opposed to the malt that is commonplace in brewing in Nepal, gives the beer a different taste. ",
+    "content": "Alcohal: 8%, 5%",
+    "category": "beer",
+    "productImage": {
+      "public_id": "Ecommerce/nepalice ",
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631615089/Ecommerce/nepalice.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p07",
+    "title": "swift",
+    "priceDetails": "Rs. 160",
+    "description": "Swift vodka flavor is popular and largest selling product of ADPL. It’s clear triple distilled blended with Grain spirits. ",
+    "content": "Alcohol: 30%",
+    "category": "gin",
+    "productImage": {
+      "public_id": "Ecommerce/swift",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614467/Ecommerce/swift.png"
+    }
+  },
+
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p11",
+    "title": "mountain Ice",
+    "priceDetails": "Rs. 250",
+    "description": "Raj Brewery led by the Jawalakhel Group of Industries (JGI) has launched a premium strong beer called Mountain Ice in response to the increasing consumer preference for strong brews.Brewed to international standards with imported malts and select hops, Mountain Ice offers Nepali consumers a distinct premium product based on their taste preferences ",
+    "content": "Alcohol: 6.5%",
+    "category": "beer",
+    "productImage": {
+      "public_id": "Ecommerce/mountainIce",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614420/Ecommerce/mountainIce.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p12",
+    "title": "hatti",
+    "priceDetails": "Rs. 150",
+    "description": "Brewed with 2-Row Malted Barley, German Hops, and finest handpicked ingredients at our state-of-the-art brewery using world-class brewing techniques, comes Hatti 8 Premium Strong Beer. ",
+    "content": "Alcohol: 8%",
+    "category": "beer",
+    "productImage": {
+      "public_id": "Ecommerce/hatti",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614406/Ecommerce/hatti.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p13",
+    "title": "golden oak",
+
+    "description": "Golden Oak is a blend of exquisite single malt and the grain spirit. The blend is more balanced, full bodied and easier to drink than their other counterparts in 40up segments.The aromas are established on palate as well, followed by long, lingering finish of oakwood cask. ",
+    "content": "Alcohol: 34.23%",
+    "category": "Whiskey",
+    "priceDetails": "qtr: Rs.250, Half Bottle: Rs 500 ,Full Bottle: Rs 1000 ",
+    "productImage": {
+      "public_id": "Ecommerce/goldenOak",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614396/Ecommerce/goldenOak.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p14",
+    "title": "blue diamond",
+
+    "description": "Blue Diamond is an extra dry gin in the 40up segment. It is synonymous with quality, price and taste.Infused with the fines botanical ingredients for a satisfying finish. ",
+    "content": "Alcohol: 34.2%",
+    "category": "gin",
+    "priceDetails": "qtr: Rs.250. Half Bottle: Rs 500.  Full Bottle: Rs 1000 ",
+
+    "productImage": {
+      "public_id": "Ecommerce/blueDaimnond ",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614385/Ecommerce/blueDaimnond.jpg"
+    }
+  },
+
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p16",
+    "title": "bahrashinga",
+    "priceDetails": "330ml :Rs 150.  650ml: Rs 250 ",
+
+    "description": "Barahsinghe Craft is Nepal’s first dry hopped beer but with a Pilsner style finish.Brewed with imported German Malted Barley, Natural Spring Water and Aromatic Hops, this beer with floral, woody and spicy aromatics will certainly please your palate.Ingredients: Malted Barley, Rice, Hops, Yeast and Natural Spring Water. ",
+    "content": "Alcohol: 8% / 5%",
+    "category": "beer",
+    "productImage": {
+      "public_id": "Ecommerce/12Singa ",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614364/Ecommerce/12Singa.jpg"
+    }
+  },
+
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p18",
+    "title": "arna",
+    "priceDetails": "330ml :Rs 160.    650ml:Rs 280 ",
+
+    "description": "Arna Strong is a crisp and incredibly balanced extra strong Nepali beer.Prepared by brewing barley and malt with pure water and international hops, this refreshing beer with its rejuvenating taste and exploding flavor is sure to give you that extra kick, and a lasting experience that will revive your every senses. ",
+    "content": "Alcohol:  8% / 6.5%",
+    "category": "beer",
+    "productImage": {
+      "public_id": "Ecommerce/Aarna",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614075/Ecommerce/Aarna.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p19",
+    "title": "tuborg",
+    "priceDetails": "330ml :Rs 200.    650ml:Rs 340 ",
+    "description": "Launched in Nepal in 1990 and enjoyed worldwide since 1880, Tuborg is the largest selling, most preferred and therefore the number 1 beer brand in Nepal.Tuborg recently unveiled its new look with the innovative Pull-Off Cap for the first time in Nepal.Tuborg also has a strong association with music and has been involved with various musical events over the years with the essence of Open for Fun…wherever you are.",
+    "content": "Alcohol: 5.5%",
+    "category": "beer",
+    "productImage": {
+      "public_id": "Ecommerce/tuborg ",
+
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631614477/Ecommerce/tuborg.jpg"
+    }
+  },
+  {
+    "checked": false,
+    "sold": 0,
+
+    "product_id": "p20",
+    "title": "water",
+    "priceDetails": "Rs 20 ",
+    "description": "Pure and full of minerals. ",
+    "content": "Natural Minerals",
+    "category": "water",
+    "productImage": {
+      "public_id": "Ecommerce/esisswkofesx2yr9tfbv",
+      "url": "https://res.cloudinary.com/ddol2rd9y/image/upload/v1631698601/Ecommerce/esisswkofesx2yr9tfbv.jpg"
+    }
+  }
+]
